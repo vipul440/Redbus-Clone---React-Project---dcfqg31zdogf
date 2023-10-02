@@ -1,0 +1,29 @@
+.full{
+    width: auto;
+    margin-top: 0px;
+}
+.about{
+ display: flex;
+ flex-direction: column;
+ margin-top: 90px;
+ padding-left: 20%;
+ padding-right: 20%;
+}
+.headings{
+    color: #e32312;
+    font-weight: 600;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.vip{
+    height: 100px;
+    width: fit-content;
+}
+.detail{
+    font-size: medium;
+}
+@media only screen and (max-width: 580px) {
+  .im {
+    padding-left: 0%;
+  }
+}

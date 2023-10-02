@@ -1,0 +1,24 @@
+.cabFirst {
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+  background-color: aliceblue;
+  height: fit-content;
+}
+.cabSecond {
+  margin-left: 35%;
+  color: red;
+  font-size: 26px;
+  max-width: fit-content;
+  padding-top: 45px;
+}
+.cabThird {
+  height: 70vh;
+}
+
+@media only screen and (max-width: 980px) {
+  .cabSecond {
+    margin-left: 20%;
+    flex-wrap: nowrap;
+  }
+}

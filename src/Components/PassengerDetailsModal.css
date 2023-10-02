@@ -1,0 +1,52 @@
+.passengerDetailsModal {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background-color: #a3adb8;
+}
+.mod {
+  margin-top: -50px;
+  padding-bottom: 15px;
+}
+
+.passengerDetailsModal label {
+  font-weight: bold;
+}
+.passengerDetailsModal input {
+  padding: 10px;
+  border: 1px solid #bebebe;
+  border-radius: 4px;
+}
+.errorText {
+  color: red;
+}
+.passengerDetailsModal button {
+  background-color: #0a74e6;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.passengerDetailsModal button:hover {
+  background-color: #0056b3;
+}
+
+@media screen and (max-width: 879px) {
+  .passengerDetailsModal {
+    padding: 10px;
+    width: 370px;
+    margin-right: 49px;
+  }
+
+  .passengerDetailsModal input {
+    border: 1px solid #d06969;
+    border-radius: 4px;
+  }
+}

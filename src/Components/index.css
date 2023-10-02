@@ -1,0 +1,93 @@
+
+/* .visa {
+display: block;
+} */
+
+
+
+
+/*Used for section class name imge */
+
+/* .lower{
+  margin-right: 60%;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  margin-bottom: 50px;
+}
+.im1{
+  padding-top: 10px;
+  margin-left: -370px;
+  border-radius:25px ;
+}
+.im2{
+   padding-top: 10px;
+  border-radius:25px ;
+}
+.im3{
+   padding-top: 10px;
+  border-radius:25px ;
+} */
+
+
+
+/* css for DifferentTabOption      */
+
+/* .tabbed-interface {
+  align-items: center;
+  font-family: Arial, sans-serif;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+.tab {
+  cursor: pointer;
+  padding: 10px;
+  border-bottom: 2px solid transparent;
+ 
+}
+
+.tab.selected {
+  border-bottom-color: rgb(255, 0, 8);
+ color: red;
+}
+
+.tab-content {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 10px;
+  
+}
+
+.option {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  padding: 10px;
+  margin: 5px;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  border: 0.5px salmon ;
+}
+
+.option.selected {
+  background-color: #f0f0f0;
+}
+
+.option-content {
+  padding: 10px;
+  margin-top: 5px;
+  background-color: #f0f0f0;
+} */
+

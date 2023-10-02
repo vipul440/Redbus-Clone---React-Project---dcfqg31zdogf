@@ -1,0 +1,50 @@
+/* General styling */
+.render {
+  display: flex;
+  flex-direction: column;
+  background-color: #f18a8a;
+  padding: 20px;
+  height: 1000vh;
+}
+
+.tic {
+  text-align: center;
+  color: #ffffff;
+}
+
+.tickete {
+  display: flex;
+  border: 2px solid #970de1;
+  flex-direction: column;
+  gap: 0px;
+  background-color: #fdfdfd;
+  padding: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.boo {
+  margin: 0;
+  padding: 5px 0;
+  color: #272829;
+  font-weight: 100px;
+}
+
+.canc {
+  height: fit-content;
+  width: fit-content;
+  color: #ffffff;
+  background-color: #f6635c;
+  padding: 5px 10px;
+  margin-top: auto;
+  border-radius: 10px;
+}
+.tickete p {
+  margin: 5px 0;
+}
+.tickete {
+  width: 30%;
+  margin: 10px auto;
+  border-radius: 20px;
+}

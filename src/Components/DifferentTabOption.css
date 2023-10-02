@@ -1,0 +1,32 @@
+.tabbed-interface {
+  justify-content: center;
+  max-width: 70%;
+}
+.tabs {
+  color: rgb(12, 35, 35);
+  border: transparent;
+  border-style: dashed;
+}
+.tab-content {
+  font-weight: bold;
+}
+.option-content {
+  font-size: medium;
+  font-weight: lighter;
+  font-size: medium;
+}
+@media only screen and (max-width: 580px) {
+  .tabbed-interface {
+    margin-left: 15px;
+  }
+  .tabs {
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .tab-content {
+    font-size: 13px;
+  }
+  .option-content {
+    font-size: 15px;
+  }
+}
