@@ -91,12 +91,12 @@ const LoginModal = ({ isModalOpen, openModal, closeModal }) => {
                 onChange={(e) => setPassword(e.target.value)}
               />
               <button className="continue-btn">CONTINUE</button>
-              <p className="commonTextGrey">or login using</p>
+{/*               <p className="commonTextGrey">or login using</p>
         
               <div className="google-box" onClick={handleLoginClick}>
                 <img className="gLogo" src={gLogo}></img>
                 <h4 className="gName">Google</h4>
-              </div>
+              </div> */}
               <div className="signUpBox">
                 <h4 className="signUpLink">
                   {" "}
